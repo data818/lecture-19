@@ -1,0 +1,13 @@
+.bulbonVisual {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+}
+.bulbon img {
+  width: 200px;
+  height: 320px;
+}
+.bulbon {
+  background-color: aliceblue;
+}
